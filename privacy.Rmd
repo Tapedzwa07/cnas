@@ -1,0 +1,142 @@
+---
+title: "Privacy Policy and Terms of Service"
+description: |
+  Carbon Neutral Advisory Services - Privacy Policy and Terms of Service
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+# Privacy Policy and Terms of Service
+
+**Effective Date:** 26 August 2026
+
+---
+
+## Privacy Policy
+
+### 1. Information We Collect
+
+At Carbon Neutral Advisory Services (CNAS), we collect the following information:
+
+- **Personal Information:** Name, email address, phone number, and company name when you contact us
+- **Usage Data:** How you interact with our website and services
+- **WhatsApp Data:** When you use TheTeacher.AI chatbot, we may collect basic user information
+
+### 2. How We Use Your Information
+
+We use your information to:
+
+- Provide our environmental consulting services
+- Deliver TheTeacher.AI educational support
+- Respond to your inquiries and requests
+- Send you updates about our services
+- Improve our website and services
+
+### 3. Data Protection
+
+We are committed to protecting your data:
+
+- Your information is stored securely
+- We do not sell or share your data with third parties
+- We comply with Zimbabwean data protection laws
+- You can request deletion of your data at any time
+
+### 4. WhatsApp and Communication
+
+- Our WhatsApp chatbot TheTeacher.AI uses end-to-end encryption
+- We do not store your WhatsApp conversations
+- You can opt out at any time
+
+### 5. Cookies
+
+Our website uses minimal cookies to:
+- Improve user experience
+- Track website analytics
+- You can disable cookies in your browser settings
+
+### 6. Your Rights
+
+You have the right to:
+- Access your personal data
+- Correct inaccurate data
+- Request data deletion
+- Withdraw consent at any time
+
+### 7. Contact Us
+
+For privacy concerns or data requests:
+
+**Zimbabwe:** +263 77 779 1851
+**Botswana:** +267 71 505 830
+**South Africa:** +27 69 580 1598
+**Email:** etapedzwa@gmail.com
+
+---
+
+## Terms of Service
+
+### 1. Acceptance of Terms
+
+By using our website and services, you agree to these terms. If you do not agree, please do not use our services.
+
+### 2. Our Services
+
+CNAS provides:
+- Environmental Impact Assessments (EIA)
+- Waste Management Consulting
+- Carbon Advisory and Net Zero Strategy
+- Farmers Training and Capacity Building
+- TheTeacher.AI Educational Chatbot
+- Industrial SHEQ Training
+
+### 3. Limitation of Liability
+
+- Our services are provided "as is"
+- We do not guarantee specific outcomes
+- CNAS is not liable for indirect or consequential damages
+- We are not responsible for third-party actions or services
+
+### 4. Intellectual Property
+
+- All content on this website is owned by CNAS
+- You may not reproduce our content without permission
+- TheTeacher.AI software is proprietary to CNAS
+
+### 5. User Responsibilities
+
+You agree to:
+- Use our services lawfully
+- Not misuse our chatbot or website
+- Provide accurate information
+- Respect our intellectual property
+
+### 6. Changes to Terms
+
+We reserve the right to update these terms at any time. Changes will be posted on this page.
+
+### 7. Governing Law
+
+These terms are governed by the laws of Zimbabwe.
+
+### 8. Contact
+
+For questions about these terms:
+
+**Zimbabwe:** +263 77 779 1851
+**Email:** etapedzwa@gmail.com
+
+---
+
+## Data Protection Officer
+
+**Tapedzwa Matambanadzo**
+Carbon Neutral Advisory Services
+Email: etapedzwa@gmail.com
+Phone: +263 77 779 1851
+
+---
+
+**Last Updated:** 26 August 2026
