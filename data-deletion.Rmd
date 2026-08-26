@@ -1,0 +1,67 @@
+---
+title: "Data Deletion Request"
+description: |
+  Carbon Neutral Advisory Services - Request to Delete Your Data
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+# Data Deletion Request
+
+**Effective Date:** 26 August 2026
+
+---
+
+## Your Right to Delete Data
+
+You have the right to request deletion of your personal data at any time.
+
+---
+
+## How to Request Data Deletion
+
+1. **Send an email to:** etapedzwa@gmail.com
+2. **Subject line:** "DATA DELETION REQUEST"
+3. **Include in your email:**
+   - Your full name
+   - Your phone number (if you used WhatsApp)
+   - Your email address
+   - A statement that you request deletion of all your personal data
+
+---
+
+## What Happens Next
+
+- We will respond within **72 hours** (3 business days)
+- We will confirm receipt of your request
+- We will delete all your personal data from our systems
+- We will send you a confirmation email once deletion is complete
+
+---
+
+## What Data We Delete
+
+- All personal information (name, email, phone number)
+- WhatsApp conversation history
+- Any usage data linked to you
+- Any stored queries or feedback you provided
+
+---
+
+## Exceptions
+
+We may retain data if required by law or for legitimate business purposes (e.g., financial records, legal compliance).
+
+---
+
+## Contact
+
+**Email:** etapedzwa@gmail.com
+**Phone:** +263 77 779 1851
+
+---
+
+**Last Updated:** 26 August 2026

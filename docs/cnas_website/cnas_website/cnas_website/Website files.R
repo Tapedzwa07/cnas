@@ -102,3 +102,47 @@ system('git commit -m "Upload all website files"')
 
 # Push to GitHub
 system("git push origin main")
+setwd("C:/Users/Hp/OneDrive/Desktop/r training/Website/Website/cnas_website")
+
+# Check if git works now
+system("git --version")
+system("git init")
+system('git remote add origin https://github.com/Tapedzwa07/cnas.git')
+system("git add .")
+system('git commit -m "Initial website upload"')
+system("git branch -M main")
+system("git push -u origin main")
+# Set your Git identity
+system('git config --global user.email "etapedzwa@gmail.com"')
+system('git config --global user.name "Tapedzwa07"')
+# Add all files
+system("git add .")
+
+# Commit with message
+system('git commit -m "Initial website upload"')
+
+# Push to GitHub
+system("git push -u origin main")
+# Pull remote changes first
+system("git pull origin main --allow-unrelated-histories")
+
+# Then push
+system("git push -u origin main")
+system("git remote remove origin")
+system('git remote add origin https://github.com/Tapedzwa07/cnas.git')
+system("git push -u origin main")
+# Rebuild the site
+rmarkdown::render_site()
+
+# Push to GitHub
+system("git add .")
+system('git commit -m "Add Google Search Console verification"')
+system("git push")
+# Pull remote changes first
+system("git pull origin main --allow-unrelated-histories")
+
+# Then push
+system("git push")
+system("git add .")
+system('git commit -m "Update website"')
+system("git push")

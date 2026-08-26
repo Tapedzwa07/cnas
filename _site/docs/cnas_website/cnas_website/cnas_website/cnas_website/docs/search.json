@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-08-26T18:30:57+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Carbon Neutral Advisory Services",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-08-26T18:31:04+02:00"
+    },
+    {
+      "path": "theteacher.html",
+      "title": "TheTeacher AI - Empowering Zimbabwe's Educators",
+      "description": "AI-powered WhatsApp chatbot supporting teachers from ECD to Form 6 across Zimbabwe, Botswana, and South Africa.\n",
+      "author": [],
+      "contents": "\r\nTheTeacher AI\r\nTransforming Education Through AI\r\nTheTeacher AI is an AI-powered WhatsApp chatbot designed to support teachers in under-resourced areas across Zimbabwe, Botswana, and South Africa.\r\nKey Features\r\nCurriculum-Aligned Support - Instant pedagogical advice for ECD to Form 6\r\nLesson Plan Generation - Create structured lesson plans in seconds\r\nAssessment Creation - Generate learning assessments tailored to student levels\r\nAccessible - Works on basic mobile phones via WhatsApp\r\nLow-Cost - No high-speed internet required\r\nImpact\r\nEmpowering educators in remote communities with professional development support and classroom management strategies.\r\nContact Us\r\nZimbabwe: +263 77 779 1851\r\nBotswana: +267 71 505 830\r\nSouth Africa: +27 69 580 1598\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-08-26T18:45:24+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
