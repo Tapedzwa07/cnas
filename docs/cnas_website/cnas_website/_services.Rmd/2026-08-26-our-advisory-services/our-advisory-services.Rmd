@@ -1,0 +1,14 @@
+---
+title: "Our Advisory Services"
+description: |
+  EMA-Registered Environmental Consulting, Industrial Training, and AI-Powered Social Impact across Zimbabwe, Botswana, and South Africa.
+author:
+  - name: Carbon Neutral Advisory Services
+date: 2026-08-26
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)

@@ -1,0 +1,11 @@
+---
+title: "Carbon Neutral Advisory Services"
+description: |
+  EMA-Registered Environmental Consulting, Industrial Training, and AI-Powered Social Impact across Zimbabwe, Botswana, and South Africa.
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk_set(echo = FALSE, warning = FALSE, message = FALSE)
+# Add your images here
+# knitr::include_graphics("C:\Users\Hp\OneDrive\Desktop\r training\Website\Website.jpg")

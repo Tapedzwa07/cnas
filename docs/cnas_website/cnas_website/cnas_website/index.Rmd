@@ -1,0 +1,34 @@
+---
+title: "Carbon Neutral Advisory Services"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+---
+title: "Carbon Neutral Advisory Services - Environmental Consulting & TheTeacher.AI"
+description: |
+  Guiding enterprises toward verifiable Net-Zero pathways, climate resilience, and educational empowerment through TheTeacher.AI in Zimbabwe, Botswana, and South Africa.
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk_set(echo = FALSE, warning = FALSE, message = FALSE)
+library(ggplot2)
+library(dplyr)
+# Placeholder for image - replace with actual path
+# knitr::include_graphics("images/services.jpg")
+<a href="https://wa.me/263777791851">+263 77 779 1851</a>
+<a href="https://wa.me/26771505830">+267 71 505 830</a>
+<a href="https://wa.me/+27695801598">+27 69 580 1598</a>
+  
