@@ -1,12 +1,18 @@
-name: "cnas_website"
 title: "Carbon Neutral Advisory Services"
 description: |
-  Carbon Neutral Advisory Services
-output_dir: "docs"
+  EMA-Registered Environmental Consulting, Industrial Training, and AI-Powered Social Impact
+base_url: https://cnas.co.zw/
+output_dir: "_site"
+google-site-verification: "Wg79ktI8-ULUgK5HvdaDRvBoPqM6w4ePaKAIVAoCvYg"
+
 navbar:
+  title: "CNAS"
   right:
-    - text: "Home"
-      href: index.html
+    - text: "Services"
+      href: services.html
+    - text: "TheTeacher.AI"
+      href: theteacher.html
     - text: "About"
       href: about.html
-output: distill::distill_article
+    - text: "Privacy Policy"
+      href: privacy.html
